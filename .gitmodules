@@ -1,0 +1,15 @@
+[submodule "libraries/Catena-Arduino-Platform"]
+	path = libraries/Catena-Arduino-Platform
+	url = https://github.com/mcci-catena/Catena-Arduino-Platform.git
+[submodule "libraries/MCCI-Catena-PMS7003"]
+	path = libraries/MCCI-Catena-PMS7003
+	url = https://github.com/mcci-catena/MCCI-Catena-PMS7003.git
+[submodule "libraries/arduino-lmic"]
+	path = libraries/arduino-lmic
+	url = https://github.com/mcci-catena/arduino-lmic.git
+[submodule "libraries/arduino-lorawan"]
+	path = libraries/arduino-lorawan
+	url = https://github.com/mcci-catena/arduino-lorawan.git
+[submodule "libraries/Catena-mcciadk"]
+	path = libraries/Catena-mcciadk
+	url = https://github.com/mcci-catena/Catena-mcciadk.git
