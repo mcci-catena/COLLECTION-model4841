@@ -13,3 +13,12 @@
 [submodule "libraries/Catena-mcciadk"]
 	path = libraries/Catena-mcciadk
 	url = https://github.com/mcci-catena/Catena-mcciadk.git
+[submodule "libraries/SGPC3"]
+	path = libraries/SGPC3
+	url = git@github.com:mcci-catena/SGPC3.git
+[submodule "sketches/model4841-production-lorawan"]
+	path = sketches/model4841-production-lorawan
+	url = git@github.com:mcci-catena/model4841-production-lorawan.git
+[submodule "libraries/MCCI-Catena-SHT3x"]
+	path = libraries/MCCI-Catena-SHT3x
+	url = git@github.com:mcci-catena/MCCI-Catena-SHT3x.git
