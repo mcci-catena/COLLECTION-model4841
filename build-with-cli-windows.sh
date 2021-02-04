@@ -17,8 +17,14 @@ fi
 
 # do a build
 arduino-cli compile \
-    -b mcci:stm32:mcci_catena_4630 \
+    -b mcci:stm32:mcci_catena_4630:\
+upload_method=DFU,\
+xserial=usbhwserial,\
+sysclk=hsi16m,\
+opt=osstd,\
+lorawan_region=us915,\
+lorawan_network=ttn,\
+lorawan_subband=default \
     --build-path "$OUTPUT" \
-    --build-property xserial=usbhwserial,sysclk=hsi16m,opt=osstd,lorawan_region=us915,lorawan_network=ttn,lorawan_subband=default \
     --libraries libraries \
     sketches/model4841-production-lorawan/model4841-production-lorawan.ino
