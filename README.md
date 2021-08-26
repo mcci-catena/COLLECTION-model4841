@@ -6,6 +6,8 @@ This repo is mostly submodules; clone it using `git clone --recursive`.
 
 The script [`build-with-cli.sh`](build-with-cli.sh) can be used to build the `model4841-production-lorawan` sketch using the [`arduino-cli`](https://github.com/arduino/arduino-cli).
 
+It assumes that signing keys are outside this repository, by default at `../keys/`. This can be overridden on the build command line.
+
 ---
 
 ## Meta
