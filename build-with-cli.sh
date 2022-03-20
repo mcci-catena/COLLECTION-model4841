@@ -35,6 +35,7 @@ cd "$PDIR"
 
 function _setProject {
     #---- project settings -----
+    readonly OPTOUTPUTNAME_DEFAULT=model4841
     readonly OPTKEYFILE_DEFAULT="$INVOKEDIR/keys/project.pem"
     readonly OPTREGION_DEFAULT=us915
     readonly OPTNETWORK_DEFAULT=ttn

@@ -1,5 +1,7 @@
 # COLLECTION-model4841
 
+[![GitHub release](https://img.shields.io/github/release/mcci-catena/COLLECTION-model4841.svg)](https://github.com/mcci-catena/COLLECTION-model4841/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/mcci-catena/COLLECTION-model4841/latest.svg)](https://github.com/mcci-catena/COLLECTION-model4841/compare/v1.3.2...master)
+
 Sources and required libraries for the MCCI&reg; [Model 4841 Air Quality Sensor](https://mcci.io/buy-model4841).
 
 [![Model 4841 Air Quality sensor and coin for scale](assets/model4841-case-r2.jpg)](https://mcci.io/buy-model4841)
@@ -60,7 +62,7 @@ This document and the contents of this repository are copyright 2021-2022, MCCI 
 
 ### License
 
-This repository is released under the [MIT](./LICENSE.md) license. Commercial licenses are also available from MCCI Corporation.
+[This repository]() is released under the [MIT](./LICENSE.md) license. Commercial licenses are also available from MCCI Corporation.
 
 ### Support Open Source Hardware and Software
 
